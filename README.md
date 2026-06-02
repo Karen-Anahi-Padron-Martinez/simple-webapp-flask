@@ -144,3 +144,9 @@ graph LR
 | RF-09 | El sistema deberá registrar un historial de actividad por usuario. |
 | RF-10 | El sistema deberá permitir la exportación de datos en formato CSV o JSON. |
 | RF-11 | El sistema deberá garantizar el cierre de sesión automático tras un período de inactividad. |
+
+
+## Team Members
+- Brandon Gustavo Mendoza Amaro(Líder de Desarrollo)
+- Karen Anahi Padrón Martínez 
+- Lizeth Ramirez Ramirez
