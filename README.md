@@ -145,7 +145,48 @@ graph LR
 | RF-10 | El sistema deberá permitir la exportación de datos en formato CSV o JSON. |
 | RF-11 | El sistema deberá garantizar el cierre de sesión automático tras un período de inactividad. |
 
-
+## 📸 Evidencias
+ 
+> Las evidencias se deberán incluir en tu repositorio propio. Una vez terminado, cargar el URL resultante en Classroom.
+ 
+### Evidencia 1
+<img width="1895" height="955" alt="Captura de pantalla 2026-06-01 184442" src="https://github.com/user-attachments/assets/e5f7c59c-8342-474e-bc27-aeffaab61cdf" />
+Captura del Fork creado.
+ 
+### Evidencia 2
+<img width="1279" height="184" alt="Captura de pantalla 2026-06-01 185025" src="https://github.com/user-attachments/assets/ef56879c-2ac2-47a1-8663-b9a05e765a6a" />
+Resultado de:
+```bash
+git remote -v
+```
+ 
+### Evidencia 3
+<img width="1203" height="144" alt="Captura de pantalla 2026-06-01 184748" src="https://github.com/user-attachments/assets/028d22b3-a896-4008-8f2e-da61d0c69ec6" />
+Resultado de:
+```bash
+git branch
+```
+ 
+### Evidencia 4
+<img width="1228" height="822" alt="Captura de pantalla 2026-06-01 190301" src="https://github.com/user-attachments/assets/da7a57b9-c56f-41dc-91c9-bc1832bbc779" />
+<img width="1229" height="872" alt="Captura de pantalla 2026-06-01 190315" src="https://github.com/user-attachments/assets/388e2cda-9c39-4a7b-8680-3deefd4784c4" />
+<img width="1273" height="886" alt="Captura de pantalla 2026-06-01 190324" src="https://github.com/user-attachments/assets/cb815035-e791-4373-b587-4bf1b32ba3ae" />
+Resultado de:
+```bash
+git log --oneline
+```
+ 
+### Evidencia 5
+<img width="1893" height="930" alt="Captura de pantalla 2026-06-01 191027" src="https://github.com/user-attachments/assets/41f6519d-1431-445f-ad53-8322c1a3bcad" />
+Captura del Pull Request.
+ 
+### Evidencia 6
+[URL del Pull Request:](https://github.com/Karen-Anahi-Padron-Martinez/simple-webapp-flask.git)
+ 
+---
+ 
+##  Reto Adicional
+<img width="1893" height="904" alt="Captura de pantalla 2026-06-01 191400" src="https://github.com/user-attachments/assets/655eb249-ff3f-4eb3-8bf9-5d61aaf6ead8" />
 ## Team Members
 - Brandon Gustavo Mendoza Amaro(Líder de Desarrollo)
 - Karen Anahi Padrón Martínez 
