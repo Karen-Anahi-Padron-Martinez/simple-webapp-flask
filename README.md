@@ -129,7 +129,7 @@ graph LR
     B --> C[Servicios de API / Back-end]
     C --> D[Base de Datos / Almacenamiento]
 ```
-## 📋 Requerimientos Funcionales
+## Requerimientos Funcionales
  
 | ID | Descripción |
 | :--- | :--- |
